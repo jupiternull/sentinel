@@ -1,0 +1,11 @@
+{
+  "project": "sentinel",
+  "watch_paths": [
+    "~/Documents/obsidian/Null",
+    "~/.ssh"
+  ],
+  "exclude": [
+    "**/node_modules/**",
+    "**/.git/**"
+  ]
+}
